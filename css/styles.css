@@ -1,0 +1,39 @@
+/* color palette
+primary: (whitish): #E0D2CF
+secondary: (blac)k #0000
+
+accent:(red):#7D001E
+
+typography:
+headlines:font-family: 'Cardo', serif;
+body copy:font-family: 'Slabo 27px', serif;
+
+backgrounds:
+   #4A4544;  asdfsfdasfsf
+
+*/
+/* global or sitewide*/
+
+body{
+    background: #000;
+
+
+}
+
+/* typography*/
+h1, h2 {
+    font-family: 'Cardo', serif;
+    color: #e0D2cf;
+    text-transform: capitalize;
+}
+p, blockquote { 
+    
+    font-family: 'Slabo 27px', serif;
+    line-height: 1.15em;
+    color: red;
+    
+}
+/**/
+blockquote {
+    font-size: 2em;
+}
